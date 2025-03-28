@@ -1,6 +1,6 @@
 ﻿# Authentication  
 
- API end point
+ API end point  
  // Register  
  http://localhost:5183/api/auth/register  
 
