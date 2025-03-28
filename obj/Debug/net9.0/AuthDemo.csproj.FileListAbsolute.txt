@@ -168,3 +168,4 @@ D:\Lecture\Einfratech Training\c-sharp-1\AuthDemo\bin\Debug\net9.0\ru\Microsoft.
 D:\Lecture\Einfratech Training\c-sharp-1\AuthDemo\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Lecture\Einfratech Training\c-sharp-1\AuthDemo\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Lecture\Einfratech Training\c-sharp-1\AuthDemo\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Lecture\Einfratech Training\c-sharp-1\AuthDemo\obj\Debug\net9.0\AuthDemo.sourcelink.json
