@@ -26,6 +26,12 @@ public class AuthController : ControllerBase
             return BadRequest(new { message = "All fields are required." });
         }
 
+        var existingUser = await _userManager.FindByEmailAsync(model.Email);
+        if (existingUser != null)
+        {
+            return BadRequest(new { message = "Email is already in use." });
+        }
+
         var user = new User
         {
             UserName = model.Username,
